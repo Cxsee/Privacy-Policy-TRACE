@@ -79,7 +79,10 @@ Database access is restricted and requires authentication
 
 This privacy policy may be updated from time to time. Users will be notified of significant changes through app updates.
 
+**Contact**
+If you find any security vulnerability or have any questions regarding how the app protects your privacy, or if you want to delete your personale informations please contact:
 
+Email: caselli.andre03@gmail.com
 
 
 Last updated: November 11, 2025
